@@ -7,7 +7,7 @@ To control the Relay using Arduino controller
 
 ## Software required:
 Arduino IDE </br>
-Proteus
+Proteus 
 
 ## PROCEDURE:
 ### Arduino IDE
